@@ -1,16 +1,3 @@
-#=============================================================================
-# PROGRAMMER: Stephano Montes
-# PANTHER ID: 6229338
-#
-# CLASS: COP2210
-# SECTION: Your class section: Fundamentals of Modeling & Simulations online
-# SEMESTER: The current semester: example Summer 2023
-# CLASSTIME: Your CAP4830 course meeting time : Monday 6:00 pm - 7:00pm  zoom
-
-# CERTIFICATION: I understand FIU’s academic policies, and I certify that this 
-#                work is my own and that none of it is the work of any other person.
-
-#=============================================================================
 
 library("xlsx")
 
